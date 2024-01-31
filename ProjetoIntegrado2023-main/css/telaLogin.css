@@ -1,0 +1,110 @@
+#navegacao{
+    display: flex;
+    justify-content: flex-end;
+}
+
+html{
+    background-color: #880044;
+}
+
+body{
+    background-image: url("../imagem/fundo\ imagem.jpg"); 
+    background-color: #880044; 
+} 
+
+.botao{
+    border-style: inherit;
+    background-color: #FFEE88;
+    color: #AA1155;
+    border-radius: 200px;
+    width: 6rem;
+    margin-right: 230px;
+    margin-top: 22px;
+    font-weight: 600;
+}
+
+.container{
+    margin-top: 6rem;
+    display: flex;
+    justify-content: center;
+    background-color: #DD1155;
+    width: 41rem;
+}
+
+.login{
+    margin-top: 82px;
+    color: #fff;
+}
+
+#exampleInputEmail1{
+    width: 20rem;
+    border-radius: 20px;
+}
+
+#exampleInputPassword1{
+    width: 20rem;
+    border-radius: 20px;
+}
+
+.form-check-label{
+    color: #fff;
+}
+
+.teste{
+    color: white;
+}
+
+.titulo{
+    position: relative;
+    bottom: 4rem;
+    left: 7rem;
+}
+
+.submit{
+    margin-top: 30px;
+    border-style: inherit;
+    background-color: #FFEE88;
+    color: #AA1155;
+    border-radius: 200px;
+    width: 6rem;
+    margin-left: 8rem;
+}
+
+li {
+    list-style-type: none;
+    text-decoration: inherit;
+}
+
+a{
+    color: #fff;
+}
+
+#cliqueAqui{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#esqueciMinhaSenha{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.ajuda{
+    margin-top: 95px;
+}
+
+.lostPassword{
+    margin-top: 15px;
+    margin-left: 38px;
+}
+
+.teste3{
+    color: #FFEE88;
+}
+
+.cadastro{
+    color: #fff;
+}
+
+
+   

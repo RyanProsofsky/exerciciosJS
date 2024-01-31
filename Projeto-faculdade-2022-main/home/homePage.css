@@ -1,0 +1,18 @@
+body{
+    background-image: url(../imagens/4d1db3dc-8e50-4d75-ba34-633862d698d2.jpg);
+    background-repeat: no-repeat  ;
+}
+
+.logoTipo{
+    width: 138px;
+}
+
+.container2{
+    position: relative;
+    bottom: 125px;
+    margin-left: 804px;
+}
+
+.nav-item{
+    margin-left: 52px;
+}

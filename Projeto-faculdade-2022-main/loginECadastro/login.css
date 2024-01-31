@@ -1,0 +1,48 @@
+body{
+    background-image: url(../imagens/4d1db3dc-8e50-4d75-ba34-633862d698d2.jpg);
+    background-repeat: no-repeat  ;
+}
+
+.logoTipo{
+    width: 138px;
+}
+
+.container2{
+    position: relative;
+    bottom: 125px;
+    margin-left: 804px;
+}
+
+.nav-item{
+    margin-left: 52px;
+}
+
+/* nav-pills .nav-link.active, .nav-pills .show  .nav-link{
+    background-color: #FF5F5D;
+} */
+
+.title{
+    margin-left: 971px;
+    font-size: 87px;
+    position: relative;
+    bottom: 60px;
+    color: #007bff;
+    font-family: 'Arimo', sans-serif;
+}
+
+.form-control{
+    width: 358px
+}
+
+.login{
+    position: relative;
+    float: right;
+    right: 80px;
+    bottom: 18px;
+}
+
+.btn{
+     position: relative;
+     left: 130px;
+     top: 50px;
+}
